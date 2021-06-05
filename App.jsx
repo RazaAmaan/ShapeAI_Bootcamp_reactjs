@@ -10,8 +10,7 @@ function App() {
       <Footer />
       <Note/>
       <Note/>
-      <Note/>
-      <Note/>
+    
     </div>
   );
 }
